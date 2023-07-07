@@ -32,11 +32,11 @@ Choose from any popular app. It can be an app for anything:
 
 #### In 1-3 sentences describe your application.
 
-> My app ...
+> My app ... stock chart prediction app. A user can see a chart for current prices and prediction for future prices.
 
 #### What is the name of your application?
 
-> APP NAME
+> APP NAME: Sunday Stock Market Prediction App
 
 #### Create a minimum of 10 user stories. Make sure to use the format:
 
@@ -44,7 +44,7 @@ Choose from any popular app. It can be an app for anything:
 
 Write the user stories below. Add more `>` for each user story or use `-` to make a list
 
-> As a ...
+> As a ... `<Stock trader>`, I want to see some `<predictions for stock prices>`, so that `<I can invest more wisely>`. 
 
 #### Create a new board
 
@@ -86,7 +86,7 @@ Make sure to label it as a bug. Move the card to the `To Do` list.
 
 Provide a link to the specific card below.
 
-> [Bug card]()
+> [Bug card](https://trello.com/c/irNUFop2)
 
 #### Create one chore card
 
@@ -97,7 +97,7 @@ Think back to a chore you had in a recent lab or project and model that example.
 
 Provide a link to the specific card below.
 
-> [Chore card]()
+> [Chore card](https://trello.com/c/9qps8zAS)
 
 ### Wireframes
 
@@ -105,15 +105,15 @@ Create three wireframes. You may use a free online tool or draw them on paper (y
 
 1. Create a wireframe for the main page that shows an index view (on mobile).
 
-> ![Index on mobile view]()
+> ![Index on mobile view](./img/Untitled.jpg)
 
 1. Create a wireframe for a wide desktop view for either the index view.
 
-> ![Index on desktop view]()
+> ![Index on desktop view](./img/Untitled%20(1).jpg)
 
 1. Create a wireframe for the view that has a new form (new user, new shipping information, new post, new song, new product etc.) view (on mobile).
 
-> ![New view]()
+> ![New view](./img/Untitled%20(2).jpg)
 
 ## Minimum Viable Product
 
@@ -125,10 +125,10 @@ Deploy this to GitHub pages.
 
 Write down three things that went well for you doing this lab.
  
- - one
- - two
- - three
+ - one: wireframe design
+ - two: a basic mock up design for the front page?
+ - three: none...
 
 Write down one thing you'd improve on for next time.
 
-> One thing I'd improve ...
+> One thing I'd improve ... design for the sample page.
